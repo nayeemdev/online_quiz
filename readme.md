@@ -4,22 +4,22 @@ Online_Quiz is an open source laravel ecommerce management system
 
 ## Installation Process
 
-1.Clone/Download this repository in your localhost folder. 
-2.Create a Database in your phpmyadmin which name must be "quiz"
-3.Import Databse from online_quiz/DB folder
+1. Clone/Download this repository in your localhost folder. 
+2. Create a Database in your phpmyadmin which name must be "quiz"
+3. Import Databse from online_quiz/DB folder
 
 ## Run Project
 
-1.Go to browser, browse project (Ex: localhost/online_quiz)
+1. Go to browser, browse project (Ex: localhost/online_quiz)
 
 ## Admin Panel
 
-1.Go to localhost/online_quiz/admin
-2.loginID: admin Password: password
+1. Go to localhost/online_quiz/admin
+2. loginID: admin Password: password
 
 ## Exam for User/Student
 
-1.From Homepage create new account and login
+1. From Homepage create new account and login
 
 
 ## Contributing
