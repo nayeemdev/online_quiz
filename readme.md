@@ -24,8 +24,11 @@ Online_Quiz is an open source laravel ecommerce management system
 
 ## Contributing
 
-Fork the repository
-Clone the repository locally
+1. Fork the repository
+2. Clone the repository locally
+3. Update Your Code
+4. Commit
+5. Push
 
 
 
